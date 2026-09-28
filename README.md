@@ -17,59 +17,72 @@ That finding shifted the focus from simply measuring customer revenue to thinkin
 ## What I Work With
 
 **Data Analysis**
-- SQL
-- Excel
+- MySQL
+- Excel & Power Query
 - Power BI
 - DAX
 - Python
 
-**Focus Areas**
+**Business Analysis**
 - Sales & Revenue Analysis
 - Customer Analysis
 - Product Performance
 - Store Performance
 - Customer Churn
 - Business Reporting
+- Data Visualization
 
 ---
 
 ## Featured Projects
 
-### Global Electronics Retail Analysis
-**SQL • Power BI • DAX**
+### 1. Retail Performance & Profitability Analysis
 
-Analyzed sales, customers, products, and stores to understand revenue performance and identify the customers and products driving the business.
+**MySQL · Power BI · DAX**
 
-**Key finding:** 3,206 high-revenue, frequent customers generated 53.89% of total revenue.
+Analyzed a global electronics retailer across 67 stores and 9 countries to understand revenue, profitability, store productivity, product performance, and customer value.
 
-[View Project →](YOUR_LINK)
+The business generated **$55.8M in revenue** and **$32.7M in gross profit**, with a **58.6% gross margin**.
 
----
+One of the strongest findings was customer concentration: **3,206 high-revenue, frequent customers generated 53.89% of total revenue**. This highlighted the importance of understanding customer frequency and protecting the customers contributing most to the business.
 
-### Banking Customer Churn Analysis
-**Power BI • DAX • Excel**
-
-Analyzed customer characteristics and behavior to identify patterns associated with churn and highlight high-risk customer segments.
-
-[View Project →](YOUR_LINK)
+[View Project →](YOUR_RETAIL_PROJECT_LINK)
 
 ---
 
-### E-commerce Sales & Conversion Analysis
-**SQL • Power BI**
+### 2. Bank Customer Churn Analysis
 
-Analyzed website traffic, device behavior, and conversion performance to understand where customers were being lost in the purchase journey.
+**Power BI · DAX · Excel**
 
-[View Project →](YOUR_LINK)
+Analyzed customer characteristics and behavior to understand churn patterns and identify customer segments with higher churn risk.
+
+The analysis found an overall **20.37% churn rate** and explored how customer characteristics and product relationships differed between retained and churned customers.
+
+[View Project →](YOUR_BANKING_PROJECT_LINK)
 
 ---
 
-### Restaurant Sales Analysis
-**SQL • Excel • Power BI**
+### 3. E-commerce Sales & Conversion Analysis
 
-Analyzed order volume, revenue, product performance, and sales patterns to identify opportunities for improving restaurant performance.
+**MySQL · Power BI**
 
-[View Project →](YOUR_LINK)
+Analyzed website traffic, customer behavior, device usage, and conversion performance to understand where customers were being lost in the purchase journey.
+
+The analysis compared desktop and mobile behavior and examined how traffic translated into orders, helping identify differences in conversion performance across devices.
+
+[View Project →](YOUR_ECOMMERCE_PROJECT_LINK)
+
+---
+
+### 4. Pizza Place Sales Analysis
+
+**MySQL · Excel**
+
+Analyzed more than **21,000 orders** to understand revenue, order patterns, product performance, and customer ordering behavior.
+
+The business generated approximately **$817.9K in revenue**, with Large pizzas contributing **45.9% of total revenue**. Sales were strongest around **12–1 PM and 5–7 PM**, with Friday generating the highest daily revenue.
+
+[View Project →](YOUR_PIZZA_PROJECT_LINK)
 
 ---
 
@@ -83,14 +96,37 @@ I start with:
 
 > "What problem are we trying to solve?"
 
-From there, I look at what is happening, investigate why, and connect the findings back to a business decision.
+Then I work through:
+
+**Business problem → Decision → Data → Investigation → Finding → Action**
+
+A dashboard is useful when it helps someone understand what is happening and decide what to do next. That is the standard I try to follow in my projects.
 
 ---
 
-## Let's Connect
+## Certifications
 
-**LinkedIn:** [Ahmad Manan Akram](YOUR_LINK)
+- **Maven Analytics — Power BI Desktop**
+- **Maven Analytics — Thinking Like an Analyst**
 
-**Portfolio:** [View my portfolio](YOUR_LINK)
+Most of my learning has been self-directed through projects, practice, and free learning resources.
 
-**Email:** your-email@example.com
+---
+
+## What I'm Looking For
+
+I’m looking for opportunities where I can work with real business data, solve meaningful analytical problems, and contribute as a Business or Data Analyst.
+
+I’m particularly interested in **retail and e-commerce analytics**, where my interest in business operations and customer behavior connects naturally with the work I enjoy doing.
+
+---
+
+## Connect With Me
+
+**LinkedIn:** [linkedin.com/in/ahmadmananakram](https://www.linkedin.com/in/ahmadmananakram)
+
+**Portfolio:** [View my portfolio](YOUR_PORTFOLIO_LINK)
+
+**GitHub:** [AhmadMananOfficial](https://github.com/AhmadMananOfficial)
+
+**Email:** ahmadmananakram@gmail.com
