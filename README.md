@@ -46,7 +46,7 @@ The business generated **$55.8M in revenue** and **$32.7M in gross profit**, wit
 
 One of the strongest findings was customer concentration: **3,206 high-revenue, frequent customers generated 53.89% of total revenue**. This highlighted the importance of understanding customer frequency and protecting the customers contributing most to the business.
 
-[View Project →](YOUR_RETAIL_PROJECT_LINK)
+[View Project →](https://github.com/AhmadMananOfficial/Global-Electronic-Retailer)
 
 ---
 
