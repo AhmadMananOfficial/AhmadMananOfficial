@@ -58,7 +58,7 @@ Analyzed customer characteristics and behavior to understand churn patterns and 
 
 The analysis found an overall **20.37% churn rate** and explored how customer characteristics and product relationships differed between retained and churned customers.
 
-[View Project →](YOUR_BANKING_PROJECT_LINK)
+[View Project →](https://github.com/AhmadMananOfficial/Bank-Customer-Churn)
 
 ---
 
@@ -70,7 +70,7 @@ Analyzed website traffic, customer behavior, device usage, and conversion perfor
 
 The analysis compared desktop and mobile behavior and examined how traffic translated into orders, helping identify differences in conversion performance across devices.
 
-[View Project →](YOUR_ECOMMERCE_PROJECT_LINK)
+[View Project →](https://github.com/AhmadMananOfficial/E-commerce-Sales-Growth-Analysis)
 
 ---
 
@@ -82,7 +82,7 @@ Analyzed more than **21,000 orders** to understand revenue, order patterns, prod
 
 The business generated approximately **$817.9K in revenue**, with Large pizzas contributing **45.9% of total revenue**. Sales were strongest around **12–1 PM and 5–7 PM**, with Friday generating the highest daily revenue.
 
-[View Project →](YOUR_PIZZA_PROJECT_LINK)
+[View Project →](https://github.com/AhmadMananOfficial/Pizza-Place-Resturant-Sales-Analysis)
 
 ---
 
@@ -124,8 +124,6 @@ I’m particularly interested in **retail and e-commerce analytics**, where my i
 ## Connect With Me
 
 **LinkedIn:** [linkedin.com/in/ahmadmananakram](https://www.linkedin.com/in/ahmadmananakram)
-
-**Portfolio:** [View my portfolio](YOUR_PORTFOLIO_LINK)
 
 **GitHub:** [AhmadMananOfficial](https://github.com/AhmadMananOfficial)
 
