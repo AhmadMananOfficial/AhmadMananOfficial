@@ -80,7 +80,7 @@ The analysis compared desktop and mobile behavior and examined how traffic trans
 
 Analyzed more than **21,000 orders** to understand revenue, order patterns, product performance, and customer ordering behavior.
 
-The business generated approximately **$817.9K in revenue**, with Large pizzas contributing **45.9% of total revenue**. Sales were strongest around **12–1 PM and 5–7 PM**, with Friday generating the highest daily revenue.
+The business generated approximately **$817.9K in revenue**, with Large-size pizzas contributing **45.9% of total revenue**. Sales were strongest around **12–1 PM and 5–7 PM**, with Friday generating the highest daily revenue.
 
 [View Project →](https://github.com/AhmadMananOfficial/Pizza-Place-Resturant-Sales-Analysis)
 
